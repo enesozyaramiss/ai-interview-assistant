@@ -1,0 +1,9 @@
+streamlit
+whisper
+sounddevice
+scipy
+numpy
+openai
+python-dotenv
+requests
+google-generativeai
