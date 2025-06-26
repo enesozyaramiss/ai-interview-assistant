@@ -1,30 +1,71 @@
-John Doe  
-Email: john.doe@example.com  
-Phone: +1 555 123 4567  
-Location: San Francisco, CA  
-
-SUMMARY  
-Experienced Software Engineer with 6+ years of experience in designing, developing, and deploying scalable web applications. Passionate about clean code, performance optimization, and cutting-edge technologies.  
-
-TECHNICAL SKILLS  
-- Programming: Python, Java, JavaScript, Go  
-- Frameworks: Django, Flask, React, Node.js  
-- Databases: PostgreSQL, MongoDB, Redis  
-- Cloud: AWS, GCP  
-- Tools: Docker, Kubernetes, Git, Jenkins  
-
-EXPERIENCE  
-Senior Software Engineer — TechCorp Inc.  
-Jan 2020 – Present  
-- Led the migration of core services to microservices architecture, improving system scalability by 50%.  
-- Designed and implemented REST APIs serving over 1 million monthly active users.  
-- Mentored junior developers and conducted code reviews.  
-
-Software Engineer — WebSolutions Ltd.  
-Jun 2017 – Dec 2019  
-- Built full-stack web applications using Django and React.  
-- Collaborated with cross-functional teams on product design and delivery.  
-
-EDUCATION  
-Bachelor of Science in Computer Science  
-University of California, Berkeley — 2017  
+Enes Ozyaramis  
+(+39) 351  798 99 57 | enesozyaramiss@gmail.com  | linkedin.com/in/enesozyaramis  | github.com/ enesozyaramiss    
+Apulia, Italy  
+SUMMARY  
+AI Engineer with 5 + year s of experience designing and deploying scalable AI and LLM -based systems across finance, 
+marketing, healthcare, and agriculture domains. Hands -on expertise in building  RAG pipelines , performing  LLM fine -
+tuning  and optimization (quantization, distillation) , and developing production -grade AI services. Proficient in managing  
+MLOps pipelines  and deploying solutions on cloud platforms (AWS, Azure). Experienced in  distributed training , model 
+optimization, and serving models via microservices (Docker, Kubernetes ). Skilled with frameworks such as  PyTorch , 
+TensorFlow , LangChain , Ollama , and  Hugging Face Transformers . 
+ 
+EXPERIENCE  
+Data Scientist                                                                                                                                                Jan 2024 – Present  
+eResult s.r.l                     Apulia , Italy  
+ Designed and deployed LLM -based solutions for crop hail prediction (92% accuracy), integrating satellite and tabular 
+data via AWS -hosted microservices.  
+ Designed and deployed  LLM -based RAG pipelines  and Ollama -hosted AI microservices  to enable knowledge 
+retrieval and document understanding in agriculture and healthcare.  
+ Performed  LLM fine -tuning , quantization, and distillation to optimize model performance and latency in production.  
+ Built and maintained  containerized AI services  (Docker, Kubernetes) and deployed them to  AWS cloud 
+infrastructure . 
+ Integrated  event -driven data pipelines  (MSSQL) with AI -driven business workflows, including the  Plan Tool 
+Navigator (PTN)  app. 
+ Conducted  benchmarking and optimization  of LLM and computer vision models on cloud accelerators to reduce 
+inference costs.  
+Senior Analytics Analyst                                                                                                   Nov 2021 - Jan 2024   
+Experian                                                Istanbul, Turkey  
+ Designed and implemented full -cycle AI -driven income estimation  model (data ingestion, preprocessing, target 
+engineering, model training and deployment to production); established model monitoring and performance tracking 
+pipeline.  
+ Developed IFRS9 and IRB compliant credit risk models; performed feature engineering, model training, validation 
+and supported regulatory documentation and audit proces ses. 
+ Participated in the design and deployment of  risk scoring , credit limit optimization , and  loan default prediction 
+models  across multiple banking projects.  
+ Contributed to the  automation of credit and income assessment workflows , reducing manual work and improving 
+decision cycle times by  35%. 
+ Worked on an  AI-based second -hand vehicle price prediction model  to enhance lending decisions and optimize 
+portfolio profitab ility. 
+ Contributed to LLM prompt engineering and prototype development for CRM and marketing personalization use 
+cases.  
+ Supported the deployment of multiple AI models into production banking systems, ensuring scalability, compliance, 
+and ongoing monitori ng. 
+ 
+ 
+ 
+AI Engineer  Intern                                                                                                                               Dec 2020 - Nov 2021  
+Techmax Technology                                        Izmir, Turkey  
+ Applied  Deep Learning -based computer vision algorit hms (CNNs, YOLO) in R&D projects for intelligent 
+transportation and industrial applications.  
+ Developed and deployed a  real-time egg counting system  using  YOLO  and industrial cameras; integrated results with 
+a live dashboard and automated reporting for a production facility.  
+ Designed and built a  smart beverage inventory system  using  Raspberry Pi  + Pi Cameras; implemented real -time 
+object detection to track item counts (cola, juice, water) inside vending machines.  
+ Conducted  model training and evaluation  with TensorFlow  and PyTorch ; optimized models for deployment on  edge 
+devices  (Raspberry Pi).  
+ Preprocessed and cleaned image data pipelines to improve model robustness and performance.  
+ Developed an  AI-powered license plate reco gnition system  by training  deep learning models  (TensorFlow, PyTorch) 
+for license plate detection and applying  OCR algorithms  for text extraction. Integrated the system with  SQL databases  
+for automated reporting and analytics.   
+EDUCATION  
+Electrical and Electronics Engineering, BSc                Sep 2016 - Jun 2021  
+Dokuz Eylul University                                                   Izmir, Turkey                                 
+TECHNICAL  SKILLS    
+Languages &  Frameworks : Python, SQL , PyTorch , TensorFlow , Hugging Face Transformers , Langchain , Keras, scikit -
+learn  
+LLM & NLP: LLMs, RAG (Retrieval -Augmented Generation), Fine -tuning, Prompt Engineering, NLP, Transformers  
+Computer Vision:  CNN, Object Detection, Image Classification, OpenCV  
+MLOps & Cloud:  AWS, Azure, Docker, Kubernetes, Argo Workflows, CI/CD  
+Tools: Git, REST APIs, Streamlit , MLFlow, Weights & Biases  
+Specializations:  Model Optimization (Quantization, Distillation), Distributed Training, Data Pipelines, Visualization 
+(Matplotlib, Seaborn)  
